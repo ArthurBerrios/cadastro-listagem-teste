@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+form {
+    text-align: center;
+    background: rgb(81, 174, 255);
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+
+
+input[type="radio"] {
+    margin-top: 30px;
+    width: 30px; 
+}
+
+
+input[type="text"], input[type="number"], input[type="submit"], label {
+    width: 80%;
+    padding: 10px;  
+    border: 0;
+    border-radius: 2px;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid white;
+}
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+th {
+    background-color: rgb(81, 174, 255);
+    color: white;
+}
+input[type="submit"]{
+
+    background-color: greenyellow;
+    }
+tr:nth-child(even) {
+background-color: #f2f2f2; 
+}
