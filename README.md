@@ -12,5 +12,7 @@ Um simples teste para vaga back-end de cadastro e listagem de produtos, onde dec
   
 - **Listagem de Produtos**: Exibe todos os produtos cadastrados, ordenados pelo valor do menor para o maior.
 
-![image](https://github.com/user-attachments/assets/86658694-db1d-4f12-af78-6e5afb78afb0)
+![image](https://github.com/user-attachments/assets/20df6ea3-65db-46b5-a904-f784ac720662)
+![image](https://github.com/user-attachments/assets/deb95655-422a-4bb3-b743-f32ed0a6802e)
+
 
